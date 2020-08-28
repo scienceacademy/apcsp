@@ -1,4 +1,4 @@
-lab50: true
+lab50:
     files:
-        !exclude "*"
-        !include test.py
+        - !exclude "*"
+        - !include test.py
